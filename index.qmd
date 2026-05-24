@@ -1,6 +1,6 @@
 ---
 title: "Evaluacion 2"
-subtitle: "Informacion de educacion fisica"
+subtitle: "educacion fisica y ciencias del deporte"
 author: 
   - name: Angie Lorena Gomen Peña<br>Yerson Mauricio Garcia Quimbayo 
     affiliation: "Universidad del Tolima"
